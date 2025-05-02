@@ -97,10 +97,10 @@
                                 <div class=" ">
                                     <div class="row">
                                         <div class="col-md-6">
-                                            <a href="edit-course.php"> <button class="btn btn-primary1 w-100 ">Accept</button></a>
+                                            <a href="trainers-profile.php"> <button class="btn btn-primary1 w-100 ">Accept</button></a>
                                         </div>
                                         <div class="col-md-6">
-                                            <a href="edit-course.php"> <button class="btn btn-primary2 w-100">Reject</button></a>
+                                            <a href="#"> <button class="btn btn-primary2 w-100">Reject</button></a>
                                         </div>
                                     </div>
                                   
@@ -141,10 +141,10 @@
                                 <div class=" ">
                                     <div class="row">
                                         <div class="col-md-6">
-                                            <a href="edit-course.php"> <button class="btn btn-primary1 w-100 ">Accept</button></a>
+                                            <a href="#"> <button class="btn btn-primary1 w-100 ">Accept</button></a>
                                         </div>
                                         <div class="col-md-6">
-                                            <a href="edit-course.php"> <button class="btn btn-primary2 w-100">Reject</button></a>
+                                            <a href="#"> <button class="btn btn-primary2 w-100">Reject</button></a>
                                         </div>
                                     </div>
                                   
@@ -270,10 +270,10 @@
                                 <div class=" ">
                                     <div class="row">
                                         <div class="col-md-6">
-                                            <a href="edit-course.php"> <button class="btn btn-primary1 w-100 ">Accept</button></a>
+                                            <a href="#"> <button class="btn btn-primary1 w-100 ">Accept</button></a>
                                         </div>
                                         <div class="col-md-6">
-                                            <a href="edit-course.php"> <button class="btn btn-primary2 w-100">Reject</button></a>
+                                            <a href="#"> <button class="btn btn-primary2 w-100">Reject</button></a>
                                         </div>
                                     </div>
                                   
@@ -314,10 +314,10 @@
                                 <div class=" ">
                                     <div class="row">
                                         <div class="col-md-6">
-                                            <a href="edit-course.php"> <button class="btn btn-primary1 w-100 ">Accept</button></a>
+                                            <a href="#"> <button class="btn btn-primary1 w-100 ">Accept</button></a>
                                         </div>
                                         <div class="col-md-6">
-                                            <a href="edit-course.php"> <button class="btn btn-primary2 w-100">Reject</button></a>
+                                            <a href="#"> <button class="btn btn-primary2 w-100">Reject</button></a>
                                         </div>
                                     </div>
                                   
@@ -438,10 +438,10 @@
                                 <div class=" ">
                                     <div class="row">
                                         <div class="col-md-6">
-                                            <a href="edit-course.php"> <button class="btn btn-primary1 w-100 ">Accept</button></a>
+                                            <a href="#"> <button class="btn btn-primary1 w-100 ">Accept</button></a>
                                         </div>
                                         <div class="col-md-6">
-                                            <a href="edit-course.php"> <button class="btn btn-primary2 w-100">Reject</button></a>
+                                            <a href="#"> <button class="btn btn-primary2 w-100">Reject</button></a>
                                         </div>
                                     </div>
                                   
@@ -482,10 +482,10 @@
                                 <div class=" ">
                                     <div class="row">
                                         <div class="col-md-6">
-                                            <a href="edit-course.php"> <button class="btn btn-primary1 w-100 ">Accept</button></a>
+                                            <a href="#"> <button class="btn btn-primary1 w-100 ">Accept</button></a>
                                         </div>
                                         <div class="col-md-6">
-                                            <a href="edit-course.php"> <button class="btn btn-primary2 w-100">Reject</button></a>
+                                            <a href="#"> <button class="btn btn-primary2 w-100">Reject</button></a>
                                         </div>
                                     </div>
                                   

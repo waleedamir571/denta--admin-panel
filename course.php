@@ -83,8 +83,8 @@
                                 </div>
 
                                 <div class="course-actions">
-                                    <a href="edit-course.php"> <button class="btn btn-primary1 ">Accept</button></a>
-                                    <a href="edit-course.php"> <button class="btn btn-primary2 ">Reject</button></a>
+                                    <a href="#"> <button class="btn btn-primary1 ">Accept</button></a>
+                                    <a href="#"> <button class="btn btn-primary2 ">Reject</button></a>
 
                                     <div class="dropdown-wrapper">
                                         <div class="more" onclick="toggleDropdown(this)">⋯</div>

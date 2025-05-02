@@ -99,219 +99,10 @@
 
 
 
-                <div class="row ">
-                    <div class="col-md-6">
-                        <div class="course-summary-card">
-                            <div class="d-flex justify-content-between align-items-center ">
-                                <h5 class="page-title">Overall Course Rating</h5>
-                                <div class="text-muted">
-                                    <div class="dropdown">
-                                        <a href="#" class="btn bt btn-light dropdown-toggle" data-bs-toggle="dropdown"
-                                            aria-haspopup="true" aria-expanded="false">
-                                            This Month<i class="las la-angle-down ms-1"></i>
-                                        </a>
-                                        <div class="dropdown-menu dropdown-menu-end" style="">
-                                            <a class="dropdown-item" href="#">Today</a>
-                                            <a class="dropdown-item" href="#">Last Week</a>
-                                            <a class="dropdown-item" href="#">Last Month</a>
-                                            <a class="dropdown-item" href="#">This Year</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="row align-items-center">
-                                <!-- Left box -->
-                                <div class="col-md-4">
-                                    <div class="rating-box">
-                                        <p class="head">4.8</p>
-                                        <div class="stars">
-                                            ★ ★ ★ ★ ☆
-                                        </div>
-                                        <div class="c-rating mt-2">Course Rating</div>
-                                    </div>
-                                </div>
-
-                                <!-- Right bars -->
-                                <div class="col-md-8">
-                                    <!-- Rating Row -->
-                                    <div class="rating-row d-flex">
-                                        <div class="rating-stars text-warning">★★★★★ 5 Star</div>
-                                        <div class="flex-grow-1 mx-2">
-                                            <div class="progress">
-                                                <div class="progress-bar" style="width: 67%;"></div>
-                                            </div>
-                                        </div>
-                                        <div class="rating-percent">67%</div>
-                                    </div>
-
-                                    <div class="rating-row">
-                                        <div class="rating-stars text-warning">★★★★☆ 4 Star</div>
-                                        <div class="flex-grow-1 mx-2">
-                                            <div class="progress">
-                                                <div class="progress-bar" style="width: 27%;"></div>
-                                            </div>
-                                        </div>
-                                        <div class="rating-percent">27%</div>
-                                    </div>
-
-                                    <div class="rating-row">
-                                        <div class="rating-stars text-warning">★★★☆☆ 3 Star</div>
-                                        <div class="flex-grow-1 mx-2">
-                                            <div class="progress">
-                                                <div class="progress-bar" style="width: 5%;"></div>
-                                            </div>
-                                        </div>
-                                        <div class="rating-percent">5%</div>
-                                    </div>
-
-                                    <div class="rating-row">
-                                        <div class="rating-stars text-warning">★★☆☆☆ 2 Star</div>
-                                        <div class="flex-grow-1 mx-2">
-                                            <div class="progress">
-                                                <div class="progress-bar" style="width: 1%;"></div>
-                                            </div>
-                                        </div>
-                                        <div class="rating-percent">1%</div>
-                                    </div>
-
-                                    <div class="rating-row">
-                                        <div class="rating-stars text-warning">★☆☆☆☆ 1 Star</div>
-                                        <div class="flex-grow-1 mx-2">
-                                            <div class="progress">
-                                                <div class="progress-bar" style="width: 0.5%;"></div>
-                                            </div>
-                                        </div>
-                                        <div class="rating-percent">&lt;1%</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="col-md-6">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="card bg-corner-img">
-                                    <div class="card-body">
-                                        <div class="row d-flex justify-content-center">
-                                            <div class="col-3 align-self-center">
-                                                <div
-                                                    class="d-flex justify-content-center align-items-center thumb-md border-dashed border-primary rounded mx-auto">
-                                                    <img src="assets/images/home/play1.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="col-9">
-
-                                                <h4 class="mt-1 mb-0 fw-medium">1,957</h4>
-                                                <p class="text-muted text-uppercase mb-0 fw-normal fs-13">Lecture (219.3
-                                                    GB)
-                                                </p>
-                                            </div>
-                                            <!--end col-->
-
-                                            <!--end col-->
-                                        </div>
-                                        <!--end row-->
-                                    </div>
-                                    <!--end card-body-->
-                                </div>
-                                <!--end card-->
-                            </div>
-                            <!--end col-->
-                            <div class="col-md-6">
-                                <div class="card bg-corner-img">
-                                    <div class="card-body">
-                                        <div class="row d-flex justify-content-center">
-                                            <div class="col-3 align-self-center">
-                                                <div
-                                                    class="d-flex justify-content-center align-items-center thumb-md border-dashed border-primary rounded mx-auto">
-                                                    <img src="assets/images/home/play2.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="col-9">
-
-                                                <h4 class="mt-1 mb-0 fw-medium">9,419,418</h4>
-                                                <p class="text-muted text-uppercase mb-0 fw-normal fs-13">Students
-                                                    enrolled
-                                                </p>
-                                            </div>
-                                            <!--end col-->
-
-                                            <!--end col-->
-                                        </div>
-                                        <!--end row-->
-                                    </div>
-                                    <!--end card-body-->
-                                </div>
-                                <!--end card-->
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="card bg-corner-img">
-                                    <div class="card-body">
-                                        <div class="row d-flex justify-content-center">
-                                            <div class="col-3 align-self-center">
-                                                <div
-                                                    class="d-flex justify-content-center align-items-center thumb-md border-dashed border-primary rounded mx-auto">
-                                                    <img src="assets/images/home/play3.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="col-9">
-
-                                                <h4 class="mt-1 mb-0 fw-medium">19:37:51</h4>
-                                                <p class="text-muted text-uppercase mb-0 fw-normal fs-13">Hours</p>
-                                            </div>
-                                            <!--end col-->
-
-                                            <!--end col-->
-                                        </div>
-                                        <!--end row-->
-                                    </div>
-                                    <!--end card-body-->
-                                </div>
-                                <!--end card-->
-                            </div>
-                            <!--end col-->
-
-                            <div class="col-md-6">
-                                <div class="card bg-corner-img">
-                                    <div class="card-body">
-                                        <div class="row d-flex justify-content-center">
-                                            <div class="col-3 align-self-center">
-                                                <div
-                                                    class="d-flex justify-content-center align-items-center thumb-md border-dashed border-primary rounded mx-auto">
-                                                    <img src="assets/images/home/play3.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="col-9">
-
-                                                <h4 class="mt-1 mb-0 fw-medium">142</h4>
-                                                <p class="text-muted text-uppercase mb-0 fw-normal fs-13">Attach File
-                                                    (14.4
-                                                    GB)</p>
-                                            </div>
-                                            <!--end col-->
-
-                                            <!--end col-->
-                                        </div>
-                                        <!--end row-->
-                                    </div>
-                                    <!--end card-body-->
-                                </div>
-                                <!--end card-->
-                            </div>
-                        </div>
-
-                        <!--end col-->
-
-                    </div>
-                    <!--end col-->
-                </div>
+             
 
                 <br>
-               
+
                 <div class="row  pt-20">
                     <h4 class="page-title">Courses</h4>
                     <div class="col-md-3">
@@ -342,7 +133,7 @@
                                         </div>
                                     </div>
 
-                                   
+
                                 </div>
                             </div>
                         </a>
@@ -374,7 +165,7 @@
                                     </div>
                                 </div>
 
-                                
+
                             </div>
                         </div>
                     </div>
@@ -404,7 +195,7 @@
                                     </div>
                                 </div>
 
-                               
+
                             </div>
                         </div>
                     </div>
@@ -434,7 +225,7 @@
                                     </div>
                                 </div>
 
-                                
+
                             </div>
                         </div>
                     </div>
@@ -448,77 +239,261 @@
             <br>
 
             <div class="row justify-content-center">
-                <div class="col-md-4 ">
+                <div class="col-12">
                     <div class="card">
                         <div class="card-header">
                             <div class="row align-items-center">
                                 <div class="col">
-                                    <h4 class="card-title">Courses Overview</h4>
+                                    <h4 class="page-title">Bookings</h4>
                                 </div><!--end col-->
-                                <div class="col-auto">
-                                    <div class="dropdown">
-                                        <a href="#" class="btn bt btn-light dropdown-toggle" data-bs-toggle="dropdown"
-                                            aria-haspopup="true" aria-expanded="false">
-                                            <i class="icofont-calendar fs-5 me-1"></i> This Month<i
-                                                class="las la-angle-down ms-1"></i>
-                                        </a>
-                                        <div class="dropdown-menu dropdown-menu-end">
-                                            <a class="dropdown-item" href="#">Today</a>
-                                            <a class="dropdown-item" href="#">Last Week</a>
-                                            <a class="dropdown-item" href="#">Last Month</a>
-                                            <a class="dropdown-item" href="#">This Year</a>
-                                        </div>
-                                    </div>
-                                </div><!--end col-->
-                            </div> <!--end row-->
-                        </div><!--end card-header-->
-                        <div class="card-body pt-0">
-                            <div id="reports" class="apex-charts pill-bar"></div>
-                        </div>
-                        <!--end card-body-->
-                    </div>
-                    <!--end card-->
-                </div>
 
-                <div class="col-md-8 order-2 order-lg-1">
-                    <div class="card">
-                        <div class="card-header">
-                            <div class="row align-items-center">
-                                <div class="col">
-                                    <h4 class="card-title">Booking Overview</h4>
-                                </div><!--end col-->
                                 <div class="col-auto">
-                                    <div class="dropdown">
-                                        <a href="#" class="btn bt btn-light dropdown-toggle" data-bs-toggle="dropdown"
-                                            aria-haspopup="true" aria-expanded="false">
-                                            <i class="icofont-calendar fs-5 me-1"></i> This Month<i
-                                                class="las la-angle-down ms-1"></i>
-                                        </a>
-                                        <div class="dropdown-menu dropdown-menu-end">
-                                            <a class="dropdown-item" href="#">Today</a>
-                                            <a class="dropdown-item" href="#">Last Week</a>
-                                            <a class="dropdown-item" href="#">Last Month</a>
-                                            <a class="dropdown-item" href="#">This Year</a>
+                                   
+                                </div><!--end col-->
+                            </div><!--end row-->
+                        </div>
+
+                        <!--end card-header-->
+                        <div class="card-body pt-0">
+                            <div class="table-responsive">
+                                <div
+                                    class="datatable-wrapper datatable-loading no-footer sortable searchable fixed-columns">
+                                    <div class="datatable-top">
+                                        <div class="datatable-dropdown">
+                                            <label>
+                                                <select class="datatable-selector" name="per-page">
+                                                    <option value="5">5</option>
+                                                    <option value="10" selected="">10</option>
+                                                    <option value="15">15</option>
+                                                    <option value="20">20</option>
+                                                    <option value="25">25</option>
+                                                </select> entries per page
+                                            </label>
+                                        </div>
+                                        <div class="datatable-search">
+                                            <input class="datatable-input" placeholder="Search..." type="search"
+                                                name="search" title="Search within table" aria-controls="datatable_1">
                                         </div>
                                     </div>
-                                </div><!--end col-->
-                            </div> <!--end row-->
-                        </div>
-                        <div class="card-body pt-0">
-                            <div id="chart" style=" margin: 50px auto;"></div>
-                            <!-- <div class="bg-light py-3 px-2 mb-0 mt-3 text-center rounded">
-                                    <h6 class="mb-0"><i class="icofont-calendar fs-5 me-1"></i> 01 January 2024 to 31
-                                        December 2024</h6>
-                                </div> -->
+                                    <div class="datatable-container">
+                                        <table class="table datatable datatable-table" id="datatable_1">
+                                            <thead>
+                                                <tr>
+                                                    <th data-sortable="true" style="width: 21.806346623270954%;"><button
+                                                            class="datatable-sorter">Date</button></th>
+                                                    <th data-sortable="true" style="width: 16.354759967453212%;"><button
+                                                            class="datatable-sorter">Student Name</button></th>
+                                                    <th data-sortable="true" style="width: 12.693246541903989%;"><button
+                                                            class="datatable-sorter">Category</button></th>
+                                                    <th data-sortable="true" style="width: 15.947925142392188%;"><button
+                                                            class="datatable-sorter">Sub Category</button></th>
+                                                    <th data-sortable="true" style="width: 12.286411716842961%;"><button
+                                                            class="datatable-sorter">Duration</button></th>
+                                                    <th data-sortable="true" style="width: 10.496338486574452%;"><button
+                                                            class="datatable-sorter">Status</button></th>
+                                                    <th data-sortable="true" style="width: 10.414971521562245%;"><button
+                                                            class="datatable-sorter">Action</button></th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr data-index="0">
+                                                    <td>21 Sep, 2021 at 2:14 AM</td>
+                                                    <td>Calvin Carl </td>
+                                                    <td>Dentist</td>
+                                                    <td>Dental Core</td>
+                                                    <td>45 Minutes</td>
+                                                    <td class="active1">Active</td>
+                                                    <td>
+                                                        <div class="dropdown-wrapper">
+                                                            <div class="more" onclick="toggleDropdown(this)">⋯</div>
+                                                            <ul class="dropdown-menu">
+                                                                <li onclick="selectItem(this)">Cancel Booking</li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr data-index="1">
+                                                    <td>21 Sep, 2021 at 2:14 AM</td>
+                                                    <td>Calvin Carl </td>
+                                                    <td>Dentist</td>
+                                                    <td>Dental Core</td>
+                                                    <td>45 Minutes</td>
+                                                    <td class="pending">Pending</td>
+                                                    <td>
+                                                        <div class="dropdown-wrapper">
+                                                            <div class="more" onclick="toggleDropdown(this)">⋯</div>
+                                                            <ul class="dropdown-menu">
+                                                                <li onclick="selectItem(this)">Cancel Booking</li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr data-index="2">
+                                                    <td>21 Sep, 2021 at 2:14 AM</td>
+                                                    <td>Calvin Carl </td>
+                                                    <td>Dentist</td>
+                                                    <td>Dental Core</td>
+                                                    <td>45 Minutes</td>
+                                                    <td class="active1">Active</td>
+                                                    <td>
+                                                        <div class="dropdown-wrapper">
+                                                            <div class="more" onclick="toggleDropdown(this)">⋯</div>
+                                                            <ul class="dropdown-menu">
+                                                                <li onclick="selectItem(this)">Cancel Booking</li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr data-index="3">
+                                                    <td>21 Sep, 2021 at 2:14 AM</td>
+                                                    <td>Calvin Carl </td>
+                                                    <td>Dentist</td>
+                                                    <td>Dental Core</td>
+                                                    <td>45 Minutes</td>
+                                                    <td class="pending">Pending</td>
+                                                    <td>
+                                                        <div class="dropdown-wrapper">
+                                                            <div class="more" onclick="toggleDropdown(this)">⋯</div>
+                                                            <ul class="dropdown-menu">
+                                                                <li onclick="selectItem(this)">Cancel Booking</li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr data-index="4">
+                                                    <td>21 Sep, 2021 at 2:14 AM</td>
+                                                    <td>Calvin Carl </td>
+                                                    <td>Dentist</td>
+                                                    <td>Dental Core</td>
+                                                    <td>45 Minutes</td>
+                                                    <td class="active1">Active</td>
+                                                    <td>
+                                                        <div class="dropdown-wrapper">
+                                                            <div class="more" onclick="toggleDropdown(this)">⋯</div>
+                                                            <ul class="dropdown-menu">
+                                                                <li onclick="selectItem(this)">Cancel Booking</li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr data-index="5">
+                                                    <td>21 Sep, 2021 at 2:14 AM</td>
+                                                    <td>Calvin Carl </td>
+                                                    <td>Dentist</td>
+                                                    <td>Dental Core</td>
+                                                    <td>45 Minutes</td>
+                                                    <td class="pending">Pending</td>
+                                                    <td>
+                                                        <div class="dropdown-wrapper">
+                                                            <div class="more" onclick="toggleDropdown(this)">⋯</div>
+                                                            <ul class="dropdown-menu">
+                                                                <li onclick="selectItem(this)">Cancel Booking</li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr data-index="6">
+                                                    <td>21 Sep, 2021 at 2:14 AM</td>
+                                                    <td>Calvin Carl </td>
+                                                    <td>Dentist</td>
+                                                    <td>Dental Core</td>
+                                                    <td>45 Minutes</td>
+                                                    <td class="active1">Active</td>
+                                                    <td>
+                                                        <div class="dropdown-wrapper">
+                                                            <div class="more" onclick="toggleDropdown(this)">⋯</div>
+                                                            <ul class="dropdown-menu">
+                                                                <li onclick="selectItem(this)">Cancel Booking</li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr data-index="7">
+                                                    <td>21 Sep, 2021 at 2:14 AM</td>
+                                                    <td>Calvin Carl </td>
+                                                    <td>Dentist</td>
+                                                    <td>Dental Core</td>
+                                                    <td>45 Minutes</td>
+                                                    <td class="pending">Pending</td>
+                                                    <td>
+                                                        <div class="dropdown-wrapper">
+                                                            <div class="more" onclick="toggleDropdown(this)">⋯</div>
+                                                            <ul class="dropdown-menu">
+                                                                <li onclick="selectItem(this)">Cancel Booking</li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr data-index="8">
+                                                    <td>21 Sep, 2021 at 2:14 AM</td>
+                                                    <td>Calvin Carl </td>
+                                                    <td>Dentist</td>
+                                                    <td>Dental Core</td>
+                                                    <td>45 Minutes</td>
+                                                    <td class="active1">Active</td>
+                                                    <td>
+                                                        <div class="dropdown-wrapper">
+                                                            <div class="more" onclick="toggleDropdown(this)">⋯</div>
+                                                            <ul class="dropdown-menu">
+                                                                <li onclick="selectItem(this)">Cancel Booking</li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr data-index="9">
+                                                    <td>21 Sep, 2021 at 2:14 AM</td>
+                                                    <td>Calvin Carl </td>
+                                                    <td>Dentist</td>
+                                                    <td>Dental Core</td>
+                                                    <td>45 Minutes</td>
+                                                    <td class="pending">Pending</td>
+                                                    <td>
+                                                        <div class="dropdown-wrapper">
+                                                            <div class="more" onclick="toggleDropdown(this)">⋯</div>
+                                                            <ul class="dropdown-menu">
+                                                                <li onclick="selectItem(this)">Cancel Booking</li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    <div class="datatable-bottom">
+                                        <div class="datatable-info">Showing 1 to 10 of 20 entries</div>
+                                        <nav class="datatable-pagination">
+                                            <ul class="datatable-pagination-list">
+                                                <li
+                                                    class="datatable-pagination-list-item datatable-hidden datatable-disabled">
+                                                    <button data-page="1" class="datatable-pagination-list-item-link"
+                                                        aria-label="Page 1">‹</button></li>
+                                                <li class="datatable-pagination-list-item datatable-active"><button
+                                                        data-page="1" class="datatable-pagination-list-item-link"
+                                                        aria-label="Page 1">1</button></li>
+                                                <li class="datatable-pagination-list-item"><button data-page="2"
+                                                        class="datatable-pagination-list-item-link"
+                                                        aria-label="Page 2">2</button></li>
+                                                <li class="datatable-pagination-list-item"><button data-page="2"
+                                                        class="datatable-pagination-list-item-link"
+                                                        aria-label="Page 2">›</button></li>
+                                            </ul>
+                                        </nav>
+                                    </div>
+                                </div>
+                            </div>
                         </div><!--end card-body-->
                     </div><!--end card-->
-                </div>
-
-
-
-                <!--end col-->
-                <!--end col-->
-                <!--end col-->
+                </div> <!--end col-->
             </div><!--end row-->
 
 
@@ -526,45 +501,7 @@
 
         <!--Start Rightbar-->
         <!--Start Rightbar/offcanvas-->
-        <div class="offcanvas offcanvas-end" tabindex="-1" id="Appearance" aria-labelledby="AppearanceLabel">
-            <div class="offcanvas-header border-bottom justify-content-between">
-                <h5 class="m-0 font-14" id="AppearanceLabel">Appearance</h5>
-                <button type="button" class="btn-close text-reset p-0 m-0 align-self-center" data-bs-dismiss="offcanvas"
-                    aria-label="Close"></button>
-            </div>
-            <div class="offcanvas-body">
-                <h6>Account Settings</h6>
-                <div class="p-2 text-start mt-3">
-                    <div class="form-check form-switch mb-2">
-                        <input class="form-check-input" type="checkbox" id="settings-switch1">
-                        <label class="form-check-label" for="settings-switch1">Auto updates</label>
-                    </div><!--end form-switch-->
-                    <div class="form-check form-switch mb-2">
-                        <input class="form-check-input" type="checkbox" id="settings-switch2" checked>
-                        <label class="form-check-label" for="settings-switch2">Location Permission</label>
-                    </div><!--end form-switch-->
-                    <div class="form-check form-switch">
-                        <input class="form-check-input" type="checkbox" id="settings-switch3">
-                        <label class="form-check-label" for="settings-switch3">Show offline Contacts</label>
-                    </div><!--end form-switch-->
-                </div><!--end /div-->
-                <h6>General Settings</h6>
-                <div class="p-2 text-start mt-3">
-                    <div class="form-check form-switch mb-2">
-                        <input class="form-check-input" type="checkbox" id="settings-switch4">
-                        <label class="form-check-label" for="settings-switch4">Show me Online</label>
-                    </div><!--end form-switch-->
-                    <div class="form-check form-switch mb-2">
-                        <input class="form-check-input" type="checkbox" id="settings-switch5" checked>
-                        <label class="form-check-label" for="settings-switch5">Status visible to all</label>
-                    </div><!--end form-switch-->
-                    <div class="form-check form-switch">
-                        <input class="form-check-input" type="checkbox" id="settings-switch6">
-                        <label class="form-check-label" for="settings-switch6">Notifications Popup</label>
-                    </div><!--end form-switch-->
-                </div><!--end /div-->
-            </div><!--end offcanvas-body-->
-        </div>
+
         <!--end Rightbar/offcanvas-->
         <!--end Rightbar-->
         <!--Start Footer-->

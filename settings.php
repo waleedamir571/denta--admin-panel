@@ -83,6 +83,47 @@
                             </div>
 
                         </div>
+                        
+                        <div class="col-md-4">
+                            <div class="">
+                                <div class="row">
+                                   
+                                    <div class="bg-grey-color">
+                                    <div class="col-md-12">
+                                        
+                                        <div class="thumbnail-preview1" id="imageBox">
+                                            <img id="preview" src="assets/images/home/iconimg.png"
+                                                alt="Preview">
+                                                <button type="button" class="btn up-image1"
+                                                onclick="document.getElementById('fileInput').click()">Upload Photo</button>
+                                        </div>
+                                        <div class="">
+
+                                            <!-- Left Side Preview -->
+
+
+                                            <!-- Right Side Instructions -->
+                                            <div class="upload-instructions">
+                                             
+                                            <input type="file" id="fileInput" style="display: none;" />
+                                                <p class="img-size"> 
+                                                    Image size should be under 1MB <br> and image ration needs to be 1:1
+                                                </p>
+                                                <input type="file" id="fileInput"
+                                                    accept="image/png, image/jpeg"
+                                                    onchange="previewImage(event)">
+                                                <br>
+                                               
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                  
+                                </div>
+
+
+                            </div>
+                        </div>
 
 
                     </div>
@@ -267,7 +308,7 @@
                                                 fill="#00FF84" />
                                         </svg>
                                     </span>
-                                    <input type="url" class="form-control" placeholder="Phone number"
+                                    <input type="url" class="form-control" placeholder="Username"
                                         style="border-left: none;">
                                 </div>
 
@@ -390,6 +431,20 @@
 
 
 
+<script>
+    document.getElementById("fileInput").addEventListener("change", function (event) {
+        const file = event.target.files[0];
+        if (file && file.type.startsWith("image/")) {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                document.getElementById("preview").src = e.target.result;
+            };
+            reader.readAsDataURL(file);
+        } else {
+            alert("Please select a valid image file.");
+        }
+    });
+</script>
 
 
 

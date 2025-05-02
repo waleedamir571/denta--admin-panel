@@ -86,7 +86,7 @@
                                             <div class="col-3 align-self-center">
                                                 <div
                                                     class="d-flex justify-content-center align-items-center thumb-md border-dashed border-primary rounded mx-auto">
-                                                    <img src="assets/images/home/play3.png" alt="">
+                                                    <img src="assets/images/home/3.png" alt="">
                                                 </div>
                                             </div>
                                             <div class="col-9">
@@ -114,7 +114,7 @@
                                             <div class="col-3 align-self-center">
                                                 <div
                                                     class="d-flex justify-content-center align-items-center thumb-md border-dashed border-primary rounded mx-auto">
-                                                    <img src="assets/images/home/play3.png" alt="">
+                                                    <img src="assets/images/home/4.png" alt="">
                                                 </div>
                                             </div>
                                             <div class="col-9">
