@@ -59,66 +59,47 @@
 
                                 </div>
                             </div>
-                            <div class="col-md-12 pt-20">
 
-                                <div class="form-group">
-                                    <label for="exampleInputEmail1">Title</label>
-                                    <input type="email" class="form-control" id="exampleInputEmail1"
-                                        aria-describedby="emailHelp"
-                                        placeholder="Your tittle, proffesion or small biography">
 
-                                </div>
-                            </div>
-                            <div class="col-md-12 pt-20">
-
-                                <div class="form-group">
-                                    <label for="exampleInputEmail1">Biography</label>
-                                    <textarea class="form-control" rows="5" id="message"
-                                        placeholder="Enter course starting message here..."></textarea>
-
-                                </div>
-                            </div>
-                            <div class="pt-20">
-                                <button class="btn btn-primary1 ">Submit For Review</button>
-                            </div>
+                            
 
                         </div>
-                        
+
                         <div class="col-md-4">
                             <div class="">
                                 <div class="row">
-                                   
+
                                     <div class="bg-grey-color">
-                                    <div class="col-md-12">
-                                        
-                                        <div class="thumbnail-preview1" id="imageBox">
-                                            <img id="preview" src="assets/images/home/iconimg.png"
-                                                alt="Preview">
+                                        <div class="col-md-12">
+
+                                            <div class="thumbnail-preview1" id="imageBox">
+                                                <img id="preview" src="assets/images/home/iconimg.png" alt="Preview">
                                                 <button type="button" class="btn up-image1"
-                                                onclick="document.getElementById('fileInput').click()">Upload Photo</button>
-                                        </div>
-                                        <div class="">
+                                                    onclick="document.getElementById('fileInput').click()">Upload
+                                                    Photo</button>
+                                            </div>
+                                            <div class="">
 
-                                            <!-- Left Side Preview -->
+                                                <!-- Left Side Preview -->
 
 
-                                            <!-- Right Side Instructions -->
-                                            <div class="upload-instructions">
-                                             
-                                            <input type="file" id="fileInput" style="display: none;" />
-                                                <p class="img-size"> 
-                                                    Image size should be under 1MB <br> and image ration needs to be 1:1
-                                                </p>
-                                                <input type="file" id="fileInput"
-                                                    accept="image/png, image/jpeg"
-                                                    onchange="previewImage(event)">
-                                                <br>
-                                               
+                                                <!-- Right Side Instructions -->
+                                                <div class="upload-instructions">
+
+                                                    <input type="file" id="fileInput" style="display: none;" />
+                                                    <p class="img-size">
+                                                        Image size should be under 1MB <br> and image ration needs to be
+                                                        1:1
+                                                    </p>
+                                                    <input type="file" id="fileInput" accept="image/png, image/jpeg"
+                                                        onchange="previewImage(event)">
+                                                    <br>
+
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                                  
+
                                 </div>
 
 
@@ -126,6 +107,42 @@
                         </div>
 
 
+                    </div>
+                    <div class="row pt-20">
+                        <div class="col-md-12 pt-20">
+
+                            <div class="form-group">
+                                <label for="exampleInputEmail1">Title</label>
+                                <input type="email" class="form-control" id="exampleInputEmail1"
+                                    aria-describedby="emailHelp"
+                                    placeholder="Your tittle, proffesion or small biography">
+
+                            </div>
+                        </div>
+                        <div class="col-md-12 pt-20">
+
+                            <div class="form-group">
+                                <label for="exampleInputEmail1">Biography</label>
+                                <textarea class="form-control" rows="5" id="message"
+                                    placeholder="Enter course starting message here..."></textarea>
+
+                            </div>
+                        </div>
+                        <div class="col-md-12 pt-20">
+
+                            <div class="form-group">
+
+                                <div class=" pt-0">
+                                    <div id="drag-drop-area"></div>
+                                    <label class="img-size">Note: All files should be at least 720p and less than 4.0
+                                        GB.</label>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="pt-20">
+                                <button class="btn btn-primary1 ">Submit For Review</button>
+                            </div>
                     </div>
                 </div>
             </div>
@@ -341,27 +358,33 @@
                                 </div>
                                 <div class="form-check">
                                     <input class="form-check-input" type="checkbox" id="notify2">
-                                    <label class="form-check-label" for="notify2">I want to know who write a review on my course.</label>
+                                    <label class="form-check-label" for="notify2">I want to know who write a review on
+                                        my course.</label>
                                 </div>
                                 <div class="form-check">
                                     <input class="form-check-input" type="checkbox" id="notify3">
-                                    <label class="form-check-label" for="notify3">I want to know who commented on my lecture.</label>
+                                    <label class="form-check-label" for="notify3">I want to know who commented on my
+                                        lecture.</label>
                                 </div>
                                 <div class="form-check">
                                     <input class="form-check-input" type="checkbox" id="notify4" checked>
-                                    <label class="form-check-label" for="notify4">I want to know who download my lecture notes.</label>
+                                    <label class="form-check-label" for="notify4">I want to know who download my lecture
+                                        notes.</label>
                                 </div>
                                 <div class="form-check">
                                     <input class="form-check-input" type="checkbox" id="notify5" checked>
-                                    <label class="form-check-label" for="notify5">I want to know who replied on my comment.</label>
+                                    <label class="form-check-label" for="notify5">I want to know who replied on my
+                                        comment.</label>
                                 </div>
                                 <div class="form-check">
                                     <input class="form-check-input" type="checkbox" id="notify6" checked>
-                                    <label class="form-check-label" for="notify6">I want to know daily how many people visited my profile.</label>
+                                    <label class="form-check-label" for="notify6">I want to know daily how many people
+                                        visited my profile.</label>
                                 </div>
                                 <div class="form-check">
                                     <input class="form-check-input" type="checkbox" id="notify7" checked>
-                                    <label class="form-check-label" for="notify7">I want to know who download my lecture attach file.</label>
+                                    <label class="form-check-label" for="notify7">I want to know who download my lecture
+                                        attach file.</label>
                                 </div>
                                 <div class="pt-20">
                                     <button class="btn btn-primary1 ">Submit For Review</button>
@@ -382,27 +405,30 @@
 
                                     <div class="form-group">
                                         <label for="exampleInputEmail1">Current Password</label>
-                                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Password">
-    
+                                        <input type="email" class="form-control" id="exampleInputEmail1"
+                                            aria-describedby="emailHelp" placeholder="Password">
+
                                     </div>
                                 </div>
                                 <div class="col-md-12 pt-20">
 
                                     <div class="form-group">
                                         <label for="exampleInputEmail1">New Password</label>
-                                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Password">
-    
+                                        <input type="email" class="form-control" id="exampleInputEmail1"
+                                            aria-describedby="emailHelp" placeholder="Password">
+
                                     </div>
                                 </div>
                                 <div class="col-md-12 pt-20">
 
                                     <div class="form-group">
                                         <label for="exampleInputEmail1">Confirm Password</label>
-                                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Password">
-    
+                                        <input type="email" class="form-control" id="exampleInputEmail1"
+                                            aria-describedby="emailHelp" placeholder="Password">
+
                                     </div>
                                 </div>
-                                
+
                                 <div class="pt-20">
                                     <button class="btn btn-primary1 ">Submit For Review</button>
                                 </div>

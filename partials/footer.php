@@ -39,6 +39,8 @@
 <script src="assets/libs/simple-datatables/umd/simple-datatables.js"></script>
 <script src="assets/js/pages/datatable.init.js"></script>
 <script src="assets/js/app.js"></script>
+   <script src="assets/libs/uppy/uppy.legacy.min.js"></script>
+        <script src="assets/js/pages/file-upload.init.js"></script>
 <!-- <script src="assets/libs/fullcalendar/index.global.min.js"></script>
 <script src="assets/js/pages/calendar.init.js"></script> -->
 </body>

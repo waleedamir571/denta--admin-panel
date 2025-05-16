@@ -23,6 +23,7 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/icons.min.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/app.min.css" rel="stylesheet" type="text/css" />
+     <link href="assets/libs/uppy/uppy.min.css" rel="stylesheet" type="text/css" />
 
 </head>
 
@@ -293,13 +294,13 @@
     <div class="startbar d-print-none">
         <!--start brand-->
         <div class="brand">
-            <a href="index.html" class="logo">
+            <a href="" class="logo">
                 <span>
-                    <img src="assets/images/home/logo-DT.png" alt="logo-small" class="logo-sm">
+                    <img src="assets/images/home/favicon-32x32.png" alt="logo-small" class="logo-sm">
                 </span>
                 <span class="">
-                    <img src="assets/images/home/logo.png" alt="logo-large" class="logo-lg logo-light">
-                    <img src="assets/images/logo-dark.png" alt="logo-large" class="logo-lg logo-dark">
+                    <img src="assets/images/home/logo.svg" alt="logo-large" class="logo-lg logo-light">
+                    <img src="assets/images/home/logo-DT.png" alt="logo-large" class="logo-lg logo-dark">
                 </span>
             </a>
         </div>
