@@ -65,33 +65,32 @@
 
 
 
-                            <div class="course-stats1">
+                           <div class="course-stats1">
                                 <div class="stat-block">
-                                    <div class="stat-value"></div>
-                                    <div class="course-subtitle"></div>
+                                  <div class="stat-value">1122334</div>
+                                  <div class="course-subtitle">GDC Number</div>
                                 </div>
                                 <div class="stat-block">
-                                    <div class="stat-value"></div>
-                                    <div class="course-subtitle"></div>
+                                  <div class="stat-value"><img src="assets/images/home/pdf.png" alt=""></div>
+                                  <div class="course-subtitle">Documents</div>
                                 </div>
                                 <div class="stat-block">
-                                    <div class="stat-value"></div>
-                                    <div class="course-subtitle"></div>
+                                  <div class="stat-value"></div>
+                                  <div class="course-subtitle"></div>
                                 </div>
-
+                          
                                 <div class="course-actions">
-                                    <a href="edit-course.php"> <button class="btn btn-primary1 ">Accept</button></a>
-                                    <a href="edit-course.php"> <button class="btn btn-primary2 ">Reject</button></a>
-
-                                    <div class="dropdown-wrapper">
-                                        <div class="more" onclick="toggleDropdown(this)">⋯</div>
-                                        <ul class="dropdown-menu">
-
-                                            <li onclick="selectItem(this)">Delete Course</li>
-                                        </ul>
-                                    </div>
+                               <a href="edit-course.php">   <button class="btn btn-primary1 ">Remove Trainer</button></a>
+                          
+                                  <div class="dropdown-wrapper">
+                                    <div class="more" onclick="toggleDropdown(this)">⋯</div>
+                                    <ul class="dropdown-menu">
+                                       
+                                        <li onclick="selectItem(this)">Delete Trainer</li>
+                                    </ul>
                                 </div>
-                            </div>
+                                </div>
+                              </div>
                         </div>
                     </div>
                     <br>
